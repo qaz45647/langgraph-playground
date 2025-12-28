@@ -1,2 +1,3 @@
-# langgraph-playground
-用來放學習LangGraph時製作的筆記與相關程式
+# llm-playground
+
+用來放學習 LLM 時製作的筆記與相關程式
