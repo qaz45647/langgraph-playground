@@ -1,1 +1,1 @@
-SFT、DPO、PPO、LLaMAFactory...等
+SFT、DPO、PPO、PEFT、LLaMAFactory...等
